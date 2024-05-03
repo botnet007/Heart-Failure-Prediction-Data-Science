@@ -39,12 +39,12 @@
 <p>Welcome to the heart disease prediction project repository. This project aims to apply machine learning techniques to predict the likelihood of heart disease based on various health attributes. By analyzing a comprehensive dataset, we aim to develop a predictive model that can assist in early detection and intervention.</p>
 
 <h2>Dataset:</h2>
-<p>Our dataset comprises a wide range of health-related attributes, including age, sex, chest pain type, resting blood pressure, cholesterol level, fasting blood sugar, resting electrocardiographic results, maximum heart rate achieved, exercise-induced angina, ST depression induced by exercise relative to rest, and the slope of the peak exercise ST segment.</p>
+<p>The  dataset comprises a wide range of health-related attributes, including age, sex, chest pain type, resting blood pressure, cholesterol level, fasting blood sugar, resting electrocardiographic results, maximum heart rate achieved, exercise-induced angina, ST depression induced by exercise relative to rest, and the slope of the peak exercise ST segment.</p>
 
 <h2>Usage:</h2>
 <ol>
   <li>Clone this repository to your local machine:</li>
-  <code>git clone https://github.com/yourusername/heart-disease-prediction.git</code>
+  <code>git https://github.com/botnet007/Heart-Failure-Prediction-Data-Science.git</code>
   <li>Explore the Jupyter Notebook <code>heart_disease_prediction.ipynb</code> to understand the data preprocessing steps, model training using the Support Vector Machine (SVM) algorithm, and evaluation techniques employed.</li>
   <li>Utilize the trained SVM model, serialized and saved as <code>my_model.pkl</code>, for predicting heart disease occurrences in new data or for further analysis.</li>
 </ol>
