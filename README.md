@@ -44,7 +44,7 @@
 <h2>Usage:</h2>
 <ol>
   <li>Clone this repository to your local machine:</li>
-  <code>git https://github.com/botnet007/Heart-Failure-Prediction-Data-Science.git</code>
+ git https://github.com/botnet007/Heart-Failure-Prediction-Data-Science.git
   <li>Explore the Jupyter Notebook <code>heart_disease_prediction.ipynb</code> to understand the data preprocessing steps, model training using the Support Vector Machine (SVM) algorithm, and evaluation techniques employed.</li>
   <li>Utilize the trained SVM model, serialized and saved as <code>my_model.pkl</code>, for predicting heart disease occurrences in new data or for further analysis.</li>
 </ol>
